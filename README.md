@@ -32,17 +32,3 @@ The analysis is done using Python in a Jupyter Notebook, with data visualization
 
 ---
 
-## 📄 Dataset Information
-The dataset contains:
-- **PassengerId** – Unique ID for each passenger
-- **Survived** – 0 = No, 1 = Yes
-- **Pclass** – Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
-- **Name, Sex, Age**
-- **SibSp** – # of siblings/spouses aboard
-- **Parch** – # of parents/children aboard
-- **Ticket, Fare**
-- **Cabin** – Cabin number (many missing)
-- **Embarked** – Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
-
----
-
