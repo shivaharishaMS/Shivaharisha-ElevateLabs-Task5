@@ -46,8 +46,3 @@ The dataset contains:
 
 ---
 
-## 🚀 How to Run the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/titanic-analysis.git
-
